@@ -31,5 +31,6 @@ https://github.com/signaleleven/s3fs-sidecar - mount an s3 bucket to a shared vo
 https://github.com/GoogleCloudPlatform/gcsfuse - mount an Google Cloud Storage bucket to a shared volume  
 https://github.com/kubernetes/git-sync - clones a git repo into a shared volume, keeps it in sync, and sends an HTTP request after a change  
 
-## MongoDB
+## Database
 https://github.com/cvallance/mongo-k8s-sidecar - Adds new replicas to the mongo container automatically
+https://github.com/GoogleCloudPlatform/cloudsql-proxy#deploying-cloud-sql-proxy-as-a-sidecar-container - allows a user to connect to a Cloud SQL database without having to deal with IP whitelisting or SSL certificates manually.
