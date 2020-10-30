@@ -27,9 +27,9 @@ https://github.com/kiwigrid/k8s-sidecar - watch a config map and sends an HTTP r
 https://github.com/jimmidyson/configmap-reload - watch a config map and sends an HTTP request after a change
 
 ## Storage  
-https://github.com/signaleleven/s3fs-sidecar - mount an s3 bucket to a shared volume
-https://github.com/GoogleCloudPlatform/gcsfuse - mount an Google Cloud Storage bucket to a shared volume
-https://github.com/kubernetes/git-sync - clones a git repo into a shared volume, keeps it in sync, and sends an HTTP request after a change
+https://github.com/signaleleven/s3fs-sidecar - mount an s3 bucket to a shared volume  
+https://github.com/GoogleCloudPlatform/gcsfuse - mount an Google Cloud Storage bucket to a shared volume  
+https://github.com/kubernetes/git-sync - clones a git repo into a shared volume, keeps it in sync, and sends an HTTP request after a change  
 
 ## MongoDB
 https://github.com/cvallance/mongo-k8s-sidecar - Adds new replicas to the mongo container automatically
