@@ -19,6 +19,9 @@ https://github.com/infolinks/loggly-sidecar  - ship logs files using Loggly
 https://github.com/yahoojapan/athenz-client-sidecar - retrieve authentication and authorization credential from Athenz server  
 https://github.com/louketo/louketo-proxy (formelly Keycloak gateway) - A OpenID/Proxy service
 
+## RBAC
+https://github.com/brancz/kube-rbac-proxy - Perform RBAC authorization against the Kubernetes API using HTTP proxy
+
 ## Leader Election
 https://github.com/vapor-ware/k8s-elector - adds a leader election capability to a deployment 
 
